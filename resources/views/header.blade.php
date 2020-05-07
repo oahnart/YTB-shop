@@ -4,7 +4,7 @@
             <div class="pull-left auto-width-left">
                 <ul class="top-menu menu-beta l-inline">
                     <li><a href=""><i class="fa fa-home"></i> 90-92 Lê Thị Riêng, Bến Thành, Quận 1 test</a></li>
-                    <li><a href=""><i class="fa fa-phone"></i> test 0163 296 7751</a></li>
+                    <li><a href=""><i class="fa fa-phone"></i> 0163 296 7751 test</a></li>
                 </ul>
             </div>
             <div class="pull-right auto-width-right">
@@ -37,7 +37,7 @@
 
                 <div class="beta-comp">
                     <div class="cart">
-                        <div class="beta-select"><i class="fa fa-shopping-cart"></i> Giỏ hàng (Trống) <i
+                        <div class="beta-select"><i class="fa fa-shopping-cart"></i>test Giỏ hàng (Trống) <i
                                     class="fa fa-chevron-down"></i></div>
                         <div class="beta-dropdown cart-body">
 
